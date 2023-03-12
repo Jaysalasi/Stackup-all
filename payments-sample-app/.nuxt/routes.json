@@ -1,0 +1,578 @@
+[
+  {
+    "name": "debug",
+    "path": "/debug",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\index.vue",
+    "chunkName": "pages/debug/index"
+  },
+  {
+    "name": "debug-businessAccount",
+    "path": "/debug/businessAccount",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\index.vue",
+    "chunkName": "pages/debug/businessAccount/index"
+  },
+  {
+    "name": "debug-checkoutSessions",
+    "path": "/debug/checkoutSessions",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\checkoutSessions\\\\index.vue",
+    "chunkName": "pages/debug/checkoutSessions/index"
+  },
+  {
+    "name": "debug-digitalDollarAccounts",
+    "path": "/debug/digitalDollarAccounts",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\digitalDollarAccounts\\\\index.vue",
+    "chunkName": "pages/debug/digitalDollarAccounts/index"
+  },
+  {
+    "name": "debug-paymentIntents",
+    "path": "/debug/paymentIntents",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\index.vue",
+    "chunkName": "pages/debug/paymentIntents/index"
+  },
+  {
+    "name": "debug-payouts",
+    "path": "/debug/payouts",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payouts\\\\index.vue",
+    "chunkName": "pages/debug/payouts/index"
+  },
+  {
+    "name": "debug-wallets",
+    "path": "/debug/wallets",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\index.vue",
+    "chunkName": "pages/debug/wallets/index"
+  },
+  {
+    "name": "flow-charge",
+    "path": "/flow/charge",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\flow\\\\charge\\\\index.vue",
+    "chunkName": "pages/flow/charge/index"
+  },
+  {
+    "name": "debug-ach-create",
+    "path": "/debug/ach/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\ach\\\\create.vue",
+    "chunkName": "pages/debug/ach/create"
+  },
+  {
+    "name": "debug-ach-details",
+    "path": "/debug/ach/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\ach\\\\details.vue",
+    "chunkName": "pages/debug/ach/details"
+  },
+  {
+    "name": "debug-cards-create",
+    "path": "/debug/cards/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\cards\\\\create.vue",
+    "chunkName": "pages/debug/cards/create"
+  },
+  {
+    "name": "debug-cards-details",
+    "path": "/debug/cards/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\cards\\\\details.vue",
+    "chunkName": "pages/debug/cards/details"
+  },
+  {
+    "name": "debug-cards-fetch",
+    "path": "/debug/cards/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\cards\\\\fetch.vue",
+    "chunkName": "pages/debug/cards/fetch"
+  },
+  {
+    "name": "debug-cards-update",
+    "path": "/debug/cards/update",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\cards\\\\update.vue",
+    "chunkName": "pages/debug/cards/update"
+  },
+  {
+    "name": "debug-chargebacks-details",
+    "path": "/debug/chargebacks/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\chargebacks\\\\details.vue",
+    "chunkName": "pages/debug/chargebacks/details"
+  },
+  {
+    "name": "debug-chargebacks-fetch",
+    "path": "/debug/chargebacks/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\chargebacks\\\\fetch.vue",
+    "chunkName": "pages/debug/chargebacks/fetch"
+  },
+  {
+    "name": "debug-checkoutSessions-create",
+    "path": "/debug/checkoutSessions/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\checkoutSessions\\\\create.vue",
+    "chunkName": "pages/debug/checkoutSessions/create"
+  },
+  {
+    "name": "debug-checkoutSessions-details",
+    "path": "/debug/checkoutSessions/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\checkoutSessions\\\\details.vue",
+    "chunkName": "pages/debug/checkoutSessions/details"
+  },
+  {
+    "name": "debug-checkoutSessions-extend",
+    "path": "/debug/checkoutSessions/extend",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\checkoutSessions\\\\extend.vue",
+    "chunkName": "pages/debug/checkoutSessions/extend"
+  },
+  {
+    "name": "debug-checkoutSessions-fetch",
+    "path": "/debug/checkoutSessions/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\checkoutSessions\\\\fetch.vue",
+    "chunkName": "pages/debug/checkoutSessions/fetch"
+  },
+  {
+    "name": "debug-paymentIntents-create",
+    "path": "/debug/paymentIntents/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\create.vue",
+    "chunkName": "pages/debug/paymentIntents/create"
+  },
+  {
+    "name": "debug-paymentIntents-createCryptoRefund",
+    "path": "/debug/paymentIntents/createCryptoRefund",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\createCryptoRefund.vue",
+    "chunkName": "pages/debug/paymentIntents/createCryptoRefund"
+  },
+  {
+    "name": "debug-paymentIntents-details",
+    "path": "/debug/paymentIntents/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\details.vue",
+    "chunkName": "pages/debug/paymentIntents/details"
+  },
+  {
+    "name": "debug-paymentIntents-expire",
+    "path": "/debug/paymentIntents/expire",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\expire.vue",
+    "chunkName": "pages/debug/paymentIntents/expire"
+  },
+  {
+    "name": "debug-paymentIntents-fetch",
+    "path": "/debug/paymentIntents/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\paymentIntents\\\\fetch.vue",
+    "chunkName": "pages/debug/paymentIntents/fetch"
+  },
+  {
+    "name": "debug-payments-cancel",
+    "path": "/debug/payments/cancel",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\cancel.vue",
+    "chunkName": "pages/debug/payments/cancel"
+  },
+  {
+    "name": "debug-payments-capture",
+    "path": "/debug/payments/capture",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\capture.vue",
+    "chunkName": "pages/debug/payments/capture"
+  },
+  {
+    "name": "debug-payments-create",
+    "path": "/debug/payments/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\create.vue",
+    "chunkName": "pages/debug/payments/create"
+  },
+  {
+    "name": "debug-payments-details",
+    "path": "/debug/payments/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\details.vue",
+    "chunkName": "pages/debug/payments/details"
+  },
+  {
+    "name": "debug-payments-fetch",
+    "path": "/debug/payments/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\fetch.vue",
+    "chunkName": "pages/debug/payments/fetch"
+  },
+  {
+    "name": "debug-payments-refund",
+    "path": "/debug/payments/refund",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\refund.vue",
+    "chunkName": "pages/debug/payments/refund"
+  },
+  {
+    "name": "debug-payouts-create",
+    "path": "/debug/payouts/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payouts\\\\create.vue",
+    "chunkName": "pages/debug/payouts/create"
+  },
+  {
+    "name": "debug-payouts-details",
+    "path": "/debug/payouts/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payouts\\\\details.vue",
+    "chunkName": "pages/debug/payouts/details"
+  },
+  {
+    "name": "debug-payouts-fetch",
+    "path": "/debug/payouts/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payouts\\\\fetch.vue",
+    "chunkName": "pages/debug/payouts/fetch"
+  },
+  {
+    "name": "debug-returns-fetch",
+    "path": "/debug/returns/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\returns\\\\fetch.vue",
+    "chunkName": "pages/debug/returns/fetch"
+  },
+  {
+    "name": "debug-reversals-fetch",
+    "path": "/debug/reversals/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\reversals\\\\fetch.vue",
+    "chunkName": "pages/debug/reversals/fetch"
+  },
+  {
+    "name": "debug-sepa-create",
+    "path": "/debug/sepa/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\sepa\\\\create.vue",
+    "chunkName": "pages/debug/sepa/create"
+  },
+  {
+    "name": "debug-sepa-details",
+    "path": "/debug/sepa/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\sepa\\\\details.vue",
+    "chunkName": "pages/debug/sepa/details"
+  },
+  {
+    "name": "debug-sepa-instructions",
+    "path": "/debug/sepa/instructions",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\sepa\\\\instructions.vue",
+    "chunkName": "pages/debug/sepa/instructions"
+  },
+  {
+    "name": "debug-settlements-details",
+    "path": "/debug/settlements/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\settlements\\\\details.vue",
+    "chunkName": "pages/debug/settlements/details"
+  },
+  {
+    "name": "debug-settlements-fetch",
+    "path": "/debug/settlements/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\settlements\\\\fetch.vue",
+    "chunkName": "pages/debug/settlements/fetch"
+  },
+  {
+    "name": "debug-wires-create",
+    "path": "/debug/wires/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wires\\\\create.vue",
+    "chunkName": "pages/debug/wires/create"
+  },
+  {
+    "name": "debug-wires-details",
+    "path": "/debug/wires/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wires\\\\details.vue",
+    "chunkName": "pages/debug/wires/details"
+  },
+  {
+    "name": "debug-wires-instructions",
+    "path": "/debug/wires/instructions",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wires\\\\instructions.vue",
+    "chunkName": "pages/debug/wires/instructions"
+  },
+  {
+    "name": "flow-card-create",
+    "path": "/flow/card/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\flow\\\\card\\\\create\\\\index.vue",
+    "chunkName": "pages/flow/card/create/index"
+  },
+  {
+    "name": "flow-charge-existing-card",
+    "path": "/flow/charge/existing-card",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\flow\\\\charge\\\\existing-card\\\\index.vue",
+    "chunkName": "pages/flow/charge/existing-card/index"
+  },
+  {
+    "name": "debug-ach-mocks-create",
+    "path": "/debug/ach/mocks/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\ach\\\\mocks\\\\create.vue",
+    "chunkName": "pages/debug/ach/mocks/create"
+  },
+  {
+    "name": "debug-beta-addressBook-create",
+    "path": "/debug/beta/addressBook/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\beta\\\\addressBook\\\\create.vue",
+    "chunkName": "pages/debug/beta/addressBook/create"
+  },
+  {
+    "name": "debug-beta-addressBook-delete",
+    "path": "/debug/beta/addressBook/delete",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\beta\\\\addressBook\\\\delete.vue",
+    "chunkName": "pages/debug/beta/addressBook/delete"
+  },
+  {
+    "name": "debug-beta-addressBook-details",
+    "path": "/debug/beta/addressBook/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\beta\\\\addressBook\\\\details.vue",
+    "chunkName": "pages/debug/beta/addressBook/details"
+  },
+  {
+    "name": "debug-beta-addressBook-fetch",
+    "path": "/debug/beta/addressBook/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\beta\\\\addressBook\\\\fetch.vue",
+    "chunkName": "pages/debug/beta/addressBook/fetch"
+  },
+  {
+    "name": "debug-beta-addressBook-patch",
+    "path": "/debug/beta/addressBook/patch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\beta\\\\addressBook\\\\patch.vue",
+    "chunkName": "pages/debug/beta/addressBook/patch"
+  },
+  {
+    "name": "debug-businessAccount-balances-fetch",
+    "path": "/debug/businessAccount/balances/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\balances\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/balances/fetch"
+  },
+  {
+    "name": "debug-businessAccount-bankAccounts-create",
+    "path": "/debug/businessAccount/bankAccounts/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\bankAccounts\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/bankAccounts/create"
+  },
+  {
+    "name": "debug-businessAccount-bankAccounts-details",
+    "path": "/debug/businessAccount/bankAccounts/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\bankAccounts\\\\details.vue",
+    "chunkName": "pages/debug/businessAccount/bankAccounts/details"
+  },
+  {
+    "name": "debug-businessAccount-bankAccounts-fetch",
+    "path": "/debug/businessAccount/bankAccounts/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\bankAccounts\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/bankAccounts/fetch"
+  },
+  {
+    "name": "debug-businessAccount-bankAccounts-instructions",
+    "path": "/debug/businessAccount/bankAccounts/instructions",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\bankAccounts\\\\instructions.vue",
+    "chunkName": "pages/debug/businessAccount/bankAccounts/instructions"
+  },
+  {
+    "name": "debug-businessAccount-deposits-fetch",
+    "path": "/debug/businessAccount/deposits/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\deposits\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/deposits/fetch"
+  },
+  {
+    "name": "debug-businessAccount-payouts-create",
+    "path": "/debug/businessAccount/payouts/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\payouts\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/payouts/create"
+  },
+  {
+    "name": "debug-businessAccount-payouts-details",
+    "path": "/debug/businessAccount/payouts/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\payouts\\\\details.vue",
+    "chunkName": "pages/debug/businessAccount/payouts/details"
+  },
+  {
+    "name": "debug-businessAccount-payouts-fetch",
+    "path": "/debug/businessAccount/payouts/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\payouts\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/payouts/fetch"
+  },
+  {
+    "name": "debug-businessAccount-senAccounts-create",
+    "path": "/debug/businessAccount/senAccounts/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\senAccounts\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/senAccounts/create"
+  },
+  {
+    "name": "debug-businessAccount-senAccounts-details",
+    "path": "/debug/businessAccount/senAccounts/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\senAccounts\\\\details.vue",
+    "chunkName": "pages/debug/businessAccount/senAccounts/details"
+  },
+  {
+    "name": "debug-businessAccount-senAccounts-fetch",
+    "path": "/debug/businessAccount/senAccounts/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\senAccounts\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/senAccounts/fetch"
+  },
+  {
+    "name": "debug-businessAccount-senAccounts-instructions",
+    "path": "/debug/businessAccount/senAccounts/instructions",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\senAccounts\\\\instructions.vue",
+    "chunkName": "pages/debug/businessAccount/senAccounts/instructions"
+  },
+  {
+    "name": "debug-businessAccount-transfers-create",
+    "path": "/debug/businessAccount/transfers/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\transfers\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/transfers/create"
+  },
+  {
+    "name": "debug-businessAccount-transfers-details",
+    "path": "/debug/businessAccount/transfers/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\transfers\\\\details.vue",
+    "chunkName": "pages/debug/businessAccount/transfers/details"
+  },
+  {
+    "name": "debug-businessAccount-transfers-fetch",
+    "path": "/debug/businessAccount/transfers/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\transfers\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/transfers/fetch"
+  },
+  {
+    "name": "debug-chargebacks-mocks-create",
+    "path": "/debug/chargebacks/mocks/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\chargebacks\\\\mocks\\\\create.vue",
+    "chunkName": "pages/debug/chargebacks/mocks/create"
+  },
+  {
+    "name": "debug-marketplace-merchants-fetch",
+    "path": "/debug/marketplace/merchants/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\merchants\\\\fetch.vue",
+    "chunkName": "pages/debug/marketplace/merchants/fetch"
+  },
+  {
+    "name": "debug-marketplace-payments-cancel",
+    "path": "/debug/marketplace/payments/cancel",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\cancel.vue",
+    "chunkName": "pages/debug/marketplace/payments/cancel"
+  },
+  {
+    "name": "debug-marketplace-payments-capture",
+    "path": "/debug/marketplace/payments/capture",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\capture.vue",
+    "chunkName": "pages/debug/marketplace/payments/capture"
+  },
+  {
+    "name": "debug-marketplace-payments-create",
+    "path": "/debug/marketplace/payments/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\create.vue",
+    "chunkName": "pages/debug/marketplace/payments/create"
+  },
+  {
+    "name": "debug-marketplace-payments-details",
+    "path": "/debug/marketplace/payments/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\details.vue",
+    "chunkName": "pages/debug/marketplace/payments/details"
+  },
+  {
+    "name": "debug-marketplace-payments-fetch",
+    "path": "/debug/marketplace/payments/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\fetch.vue",
+    "chunkName": "pages/debug/marketplace/payments/fetch"
+  },
+  {
+    "name": "debug-marketplace-payments-refund",
+    "path": "/debug/marketplace/payments/refund",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\marketplace\\\\payments\\\\refund.vue",
+    "chunkName": "pages/debug/marketplace/payments/refund"
+  },
+  {
+    "name": "debug-payments-balances-fetch",
+    "path": "/debug/payments/balances/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\balances\\\\fetch.vue",
+    "chunkName": "pages/debug/payments/balances/fetch"
+  },
+  {
+    "name": "debug-payments-crypto-create",
+    "path": "/debug/payments/crypto/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\crypto\\\\create.vue",
+    "chunkName": "pages/debug/payments/crypto/create"
+  },
+  {
+    "name": "debug-payments-crypto-presign",
+    "path": "/debug/payments/crypto/presign",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\crypto\\\\presign.vue",
+    "chunkName": "pages/debug/payments/crypto/presign"
+  },
+  {
+    "name": "debug-payments-digitalWallets-paymenttokens",
+    "path": "/debug/payments/digitalWallets/paymenttokens",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\digitalWallets\\\\paymenttokens.vue",
+    "chunkName": "pages/debug/payments/digitalWallets/paymenttokens"
+  },
+  {
+    "name": "debug-payments-mocks-sen",
+    "path": "/debug/payments/mocks/sen",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\mocks\\\\sen.vue",
+    "chunkName": "pages/debug/payments/mocks/sen"
+  },
+  {
+    "name": "debug-payments-mocks-sepa",
+    "path": "/debug/payments/mocks/sepa",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\mocks\\\\sepa.vue",
+    "chunkName": "pages/debug/payments/mocks/sepa"
+  },
+  {
+    "name": "debug-payments-mocks-wire",
+    "path": "/debug/payments/mocks/wire",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\payments\\\\mocks\\\\wire.vue",
+    "chunkName": "pages/debug/payments/mocks/wire"
+  },
+  {
+    "name": "debug-wallets-addresses-create",
+    "path": "/debug/wallets/addresses/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\addresses\\\\create.vue",
+    "chunkName": "pages/debug/wallets/addresses/create"
+  },
+  {
+    "name": "debug-wallets-addresses-fetch",
+    "path": "/debug/wallets/addresses/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\addresses\\\\fetch.vue",
+    "chunkName": "pages/debug/wallets/addresses/fetch"
+  },
+  {
+    "name": "debug-wallets-transfers-create",
+    "path": "/debug/wallets/transfers/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\transfers\\\\create.vue",
+    "chunkName": "pages/debug/wallets/transfers/create"
+  },
+  {
+    "name": "debug-wallets-transfers-details",
+    "path": "/debug/wallets/transfers/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\transfers\\\\details.vue",
+    "chunkName": "pages/debug/wallets/transfers/details"
+  },
+  {
+    "name": "debug-wallets-transfers-fetch",
+    "path": "/debug/wallets/transfers/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\transfers\\\\fetch.vue",
+    "chunkName": "pages/debug/wallets/transfers/fetch"
+  },
+  {
+    "name": "debug-wallets-wallets-create",
+    "path": "/debug/wallets/wallets/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\wallets\\\\create.vue",
+    "chunkName": "pages/debug/wallets/wallets/create"
+  },
+  {
+    "name": "debug-wallets-wallets-details",
+    "path": "/debug/wallets/wallets/details",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\wallets\\\\details.vue",
+    "chunkName": "pages/debug/wallets/wallets/details"
+  },
+  {
+    "name": "debug-wallets-wallets-fetch",
+    "path": "/debug/wallets/wallets/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\wallets\\\\wallets\\\\fetch.vue",
+    "chunkName": "pages/debug/wallets/wallets/fetch"
+  },
+  {
+    "name": "debug-businessAccount-addresses-deposit-create",
+    "path": "/debug/businessAccount/addresses/deposit/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\addresses\\\\deposit\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/addresses/deposit/create"
+  },
+  {
+    "name": "debug-businessAccount-addresses-deposit-fetch",
+    "path": "/debug/businessAccount/addresses/deposit/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\addresses\\\\deposit\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/addresses/deposit/fetch"
+  },
+  {
+    "name": "debug-businessAccount-addresses-recipient-create",
+    "path": "/debug/businessAccount/addresses/recipient/create",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\addresses\\\\recipient\\\\create.vue",
+    "chunkName": "pages/debug/businessAccount/addresses/recipient/create"
+  },
+  {
+    "name": "debug-businessAccount-addresses-recipient-fetch",
+    "path": "/debug/businessAccount/addresses/recipient/fetch",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\debug\\\\businessAccount\\\\addresses\\\\recipient\\\\fetch.vue",
+    "chunkName": "pages/debug/businessAccount/addresses/recipient/fetch"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Lillian Galadima\\\\Documents\\\\Git-All\\\\stackup\\\\payments-sample-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
